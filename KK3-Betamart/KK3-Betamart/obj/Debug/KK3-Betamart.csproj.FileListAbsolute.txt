@@ -1,0 +1,10 @@
+G:\TGS\KK3-Betamart\KK3-Betamart\bin\Debug\KK3-Betamart.exe.config
+G:\TGS\KK3-Betamart\KK3-Betamart\bin\Debug\UKK3.mdb
+G:\TGS\KK3-Betamart\KK3-Betamart\bin\Debug\KK3-Betamart.exe
+G:\TGS\KK3-Betamart\KK3-Betamart\bin\Debug\KK3-Betamart.pdb
+G:\TGS\KK3-Betamart\KK3-Betamart\obj\Debug\KK3-Betamart.csprojResolveAssemblyReference.cache
+G:\TGS\KK3-Betamart\KK3-Betamart\obj\Debug\KK3_Betamart.Form1.resources
+G:\TGS\KK3-Betamart\KK3-Betamart\obj\Debug\KK3_Betamart.Properties.Resources.resources
+G:\TGS\KK3-Betamart\KK3-Betamart\obj\Debug\KK3-Betamart.csproj.GenerateResource.Cache
+G:\TGS\KK3-Betamart\KK3-Betamart\obj\Debug\KK3-Betamart.exe
+G:\TGS\KK3-Betamart\KK3-Betamart\obj\Debug\KK3-Betamart.pdb
